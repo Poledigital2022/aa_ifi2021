@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Tondu Beta';
+    src: url('Tondu-Beta.html') format('woff2'),
+        url('Tondu-Beta.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
